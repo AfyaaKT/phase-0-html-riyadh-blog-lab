@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
+  background: rgb(98,211,232);
+  background: radial-gradient(circle, rgba(98,211,232,1) 0%, rgba(61,101,92,1) 100%);background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
@@ -29,15 +29,15 @@ h1, h2 {
   color: #fff;
 }
 
+
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color: #fff;
+
 }
 
-h2 {
-  font-size: 1.5em;
-  margin-top: .5em;
-}
+
 
 h3 {
   font-family: 'Gabriela', serif;
